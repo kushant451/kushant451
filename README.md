@@ -1,81 +1,121 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kushant+%F0%9F%91%8B;Full-Stack+%2B+AI%2FML+Developer;Building+CareerPilot-AI%2C+Formify+%26+more;Always+learning%2C+always+shipping." alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e42d6,100:3178c6&height=200&section=header&text=Kushant%20Samant&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
+
+### IILM University &nbsp;|&nbsp; B.Tech CSE &nbsp;|&nbsp; 2026
+
+<p>
+  <img src="https://img.shields.io/badge/B.Tech_CSE-IILM_University-1a1a2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Class_of-2026-6e42d6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Internships-1D9E75?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<p>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/GMAIL-YOUR--EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-KUSHANT--SAMANT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/kushant451"><img src="https://img.shields.io/badge/GITHUB-KUSHANT451-3178c6?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
-
-### 🧑‍💻 About Me
-
-- 🎓 CS student, currently exploring **AI/ML** and **Full-Stack Web Development**
-- 🚀 Currently building: **CareerPilot-AI**, **Formify**, **AI-Study-Assistant-Pro**
-- 🌱 Learning Deep Learning and modern JS/TS frameworks
-- 💬 Ask me about Java, HTML/CSS, TypeScript, and Python
-- ⚡ Fun fact: I like turning boring READMEs into interactive ones
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,python,react,git,github,vscode" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kushant451&label=PROFILE+VIEWS&color=6e42d6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/kushant451?label=FOLLOWERS&style=for-the-badge&color=3178c6" />
 </p>
 
----
+</div>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kushant451&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushant451&layout=compact&theme=dracula&hide_border=true" />
-</p>
+## [ 01 ] About me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushant451&theme=dracula&hide_border=true" />
-</p>
+```yaml
+identity:
+  name: Kushant Samant
+  role: Full-Stack Developer & AI/ML Enthusiast
+  education: B.Tech CSE, IILM University (2026)
+  focus: Web development, deep learning, building real products
+  currently_building:
+    - CareerPilot-AI
+    - Formify
+    - AI-Study-Assistant-Pro
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushant451&theme=dracula&hide_border=true" />
-</p>
+<br/>
 
----
+## [ 02 ] Tech arsenal
 
-### 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kushant451/kushant451/output/github-contribution-grid-snake.svg" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,py" />
 
-> This animation is generated automatically by a GitHub Action — setup instructions below.
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 
----
+**Tools & platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
-### 📌 Featured Projects
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/DEEP_LEARNING-6e42d6" />
+<img src="https://img.shields.io/badge/JUPYTER-3178c6" />
+<img src="https://img.shields.io/badge/DATA_ANALYSIS-1D9E75" />
 
-<p align="center">
-  <a href="https://github.com/kushant451/CareerPilot-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushant451&repo=CareerPilot-AI&theme=dracula&hide_border=true" /></a>
-  <a href="https://github.com/kushant451/Formify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushant451&repo=Formify&theme=dracula&hide_border=true" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/kushant451/AI-Study-Assistant-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushant451&repo=AI-Study-Assistant-Pro&theme=dracula&hide_border=true" /></a>
-  <a href="https://github.com/kushant451/DeepLearning_KushantSamant_2025-2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kushant451&repo=DeepLearning_KushantSamant_2025-2026&theme=dracula&hide_border=true" /></a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushant451&color=blueviolet&style=flat" alt="profile views" />
-</p>
+## [ 03 ] Skill matrix
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p>
+| Domain | Proficiency | Stack / details |
+|---|---|---|
+| Web development | Advanced | HTML, CSS, JavaScript, TypeScript |
+| Java programming | Advanced | Core Java, OOP, DSA |
+| Deep learning | Learning | Neural nets, Jupyter, Python |
+| UI / product building | Proficient | Forms, dashboards, study tools |
+| Version control | Advanced | Git, GitHub, branching workflows |
+
+<br/>
+
+## [ 04 ] Projects
+
+**In development**
+
+- CareerPilot-AI — AI-powered career guidance platform
+- Formify — Form-building and management tool (TypeScript)
+- AI-Study-Assistant-Pro — Study companion app
+
+**Coursework & practice**
+
+- DeepLearning_KushantSamant_2025-2026 — Deep learning coursework (Jupyter Notebook)
+- Java-Training — Core Java practice repository
+- HTML_WORK- — HTML/CSS practice projects
+- Student-Feedback-System- — Web technology project
+- Web-Tech-Project2 — Web technology project
+
+<br/>
+
+## [ 05 ] GitHub stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kushant451&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushant451&layout=compact&theme=dracula&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushant451&theme=dracula&hide_border=true" />
+</div>
+
+<br/>
+
+## [ 06 ] Contribution snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kushant451/kushant451/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178c6,100:6e42d6&height=100&section=footer" width="100%" />
