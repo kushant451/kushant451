@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e42d6,100:3178c6&height=200&section=header&text=Kushant%20Samant&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
 
-### IILM University &nbsp;|&nbsp; B.Tech CSE &nbsp;|&nbsp; 2026
+### IILM University &nbsp;|&nbsp; B.Tech CSE &nbsp;|&nbsp; 2023-2027
 
 <p>
   <img src="https://img.shields.io/badge/B.Tech_CSE-IILM_University-1a1a2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Class_of-2026-6e42d6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Class_of-2027-6e42d6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open_to_Internships-1D9E75?style=for-the-badge" />
 </p>
 
@@ -31,7 +31,7 @@
 identity:
   name: Kushant Samant
   role: Full-Stack Developer & AI/ML Enthusiast
-  education: B.Tech CSE, IILM University (2026)
+  education: B.Tech CSE, IILM University (2023-2027)
   focus: Web development, deep learning, building real products
   currently_building:
     - CareerPilot-AI
