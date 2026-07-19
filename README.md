@@ -11,8 +11,8 @@
 </p>
 
 <p>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/GMAIL-YOUR--EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-KUSHANT--SAMANT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kushantsamant14@gmail.com"><img src="https://img.shields.io/badge/GMAIL-KUSHANTSAMANT14-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kushant-samant-819903270"><img src="https://img.shields.io/badge/LINKEDIN-KUSHANT--SAMANT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/kushant451"><img src="https://img.shields.io/badge/GITHUB-KUSHANT451-3178c6?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
