@@ -33,10 +33,11 @@ identity:
   role: Full-Stack Developer & AI/ML Enthusiast
   education: B.Tech CSE, IILM University (2023-2027)
   focus: Web development, deep learning, building real products
-  currently_building:
+  completed:
     - CareerPilot-AI
-    - Formify
     - AI-Study-Assistant-Pro
+  currently_building:
+    - Formify
 ```
 
 <br/>
@@ -81,19 +82,28 @@ identity:
 |---|---|---|
 | Web development | Advanced | HTML, CSS, JavaScript, TypeScript |
 | Java programming | Advanced | Core Java, OOP, DSA |
+| Frontend frameworks | Proficient | React, Tailwind CSS, Bootstrap |
+| Backend development | Proficient | Node.js, Express, REST APIs |
 | Deep learning | Learning | Neural nets, Jupyter, Python |
+| Data handling | Learning | Data cleaning, basic analysis |
 | UI / product building | Proficient | Forms, dashboards, study tools |
 | Version control | Advanced | Git, GitHub, branching workflows |
+| Problem solving | Advanced | DSA, algorithmic thinking |
 
 <br/>
 
 ## [ 04 ] Projects
 
+**Completed**
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| CareerPilot-AI | AI-powered career guidance platform that helps users explore career paths | Python, AI/ML | Completed |
+| AI-Study-Assistant-Pro | Study companion app for organizing and assisting learning | Python, AI/ML | Completed |
+
 **In development**
 
-- CareerPilot-AI — AI-powered career guidance platform
 - Formify — Form-building and management tool (TypeScript)
-- AI-Study-Assistant-Pro — Study companion app
 
 **Coursework & practice**
 
