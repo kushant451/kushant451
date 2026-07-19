@@ -94,24 +94,88 @@ identity:
 
 ## [ 04 ] Projects
 
-**Completed**
+<br/>
 
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| CareerPilot-AI | AI-powered career guidance platform that helps users explore career paths | Python, AI/ML | Completed |
-| AI-Study-Assistant-Pro | Study companion app for organizing and assisting learning | Python, AI/ML | Completed |
+### In development
 
-**In development**
+<br/>
 
-- Formify — Form-building and management tool (TypeScript)
+<details open>
+<summary><b>Formify — Form-building and management tool</b></summary>
 
-**Coursework & practice**
+<br/>
 
-- DeepLearning_KushantSamant_2025-2026 — Deep learning coursework (Jupyter Notebook)
-- Java-Training — Core Java practice repository
-- HTML_WORK- — HTML/CSS practice projects
-- Student-Feedback-System- — Web technology project
-- Web-Tech-Project2 — Web technology project
+> A tool for creating, customizing, and managing forms — built to make form creation faster and more flexible than plain HTML forms.
+
+<div align="center">
+
+| Attribute | Details |
+|---|---|
+| Status | In development |
+| Stack | TypeScript |
+| Repository | [github.com/kushant451/Formify](https://github.com/kushant451/Formify) |
+
+</div>
+
+</details>
+
+<br/>
+
+### Completed
+
+<br/>
+
+<details open>
+<summary><b>CareerPilot-AI — AI-powered career guidance platform</b></summary>
+
+<br/>
+
+> Helps users explore and plan career paths using AI-driven suggestions based on their interests and background.
+
+<div align="center">
+
+| Attribute | Details |
+|---|---|
+| Status | Completed |
+| Stack | Python, AI/ML |
+| Repository | [github.com/kushant451/CareerPilot-AI](https://github.com/kushant451/CareerPilot-AI) |
+
+</div>
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>AI-Study-Assistant-Pro — Study companion app</b></summary>
+
+<br/>
+
+> An AI-assisted study companion built to help organize learning material and support study sessions.
+
+<div align="center">
+
+| Attribute | Details |
+|---|---|
+| Status | Completed |
+| Stack | Python, AI/ML |
+| Repository | [github.com/kushant451/AI-Study-Assistant-Pro](https://github.com/kushant451/AI-Study-Assistant-Pro) |
+
+</div>
+
+</details>
+
+<br/>
+
+### Coursework & practice
+
+| Repository | Description | Type |
+|---|---|---|
+| DeepLearning_KushantSamant_2025-2026 | Deep learning coursework | Jupyter Notebook |
+| Java-Training | Core Java practice | Java |
+| HTML_WORK- | HTML/CSS practice projects | HTML |
+| Student-Feedback-System- | Web technology project | HTML |
+| Web-Tech-Project2 | Web technology project | HTML |
 
 <br/>
 
@@ -132,6 +196,14 @@ identity:
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/kushant451/kushant451/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br/>
+
+## [ 07 ] 3D contribution graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kushant451/kushant451/main/profile-3d-contrib/profile-night-green.svg" />
 </div>
 
 <br/>
