@@ -51,17 +51,25 @@ identity:
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
 
-**Tools & platforms**
+**Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
 **AI / ML**
 <br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 <img src="https://img.shields.io/badge/DEEP_LEARNING-6e42d6" />
-<img src="https://img.shields.io/badge/JUPYTER-3178c6" />
 <img src="https://img.shields.io/badge/DATA_ANALYSIS-1D9E75" />
+
+**Tools & platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" />
 
 </div>
 
